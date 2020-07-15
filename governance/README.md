@@ -34,7 +34,7 @@ The Foundation's day-to-day operations are run by the [FINOS team](finos.org/tea
 
 The following policies apply to all FINOS members and activities:
 
-* The [Charter](Charter.pdf) is the Foundation's constitution. It sets out our mission, members' rights and responsibilities, the authority and procedures of our Governing Board and its committees, and other Foundation policies.
+* The [Charter](https://github.com/copiesofcopies/community/blob/master/governance/Charter.md) is the Foundation's constitution. It sets out our mission, members' rights and responsibilities, the authority and procedures of our Governing Board and its committees, and other Foundation policies.
 
 * The [Participation Agreement](Participation-Agreement.pdf) is the agreement that all of our members sign to join FINOS. It sets membership fees and terms and binds members to the terms of the [Charter](Charter.pdf). FINOS members must also be members of the Linux Foundation (at any level) and remain in compliance with LF's [Good Standing Policy](https://www.linuxfoundation.org/good-standing-policy). There is no requirement for membership to participate in the FINOS Community, but only members can propose new projects.
 
