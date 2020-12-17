@@ -33,7 +33,7 @@ For the purposes of this policy, the following terms have the following meanings
   * for a multi winner contest, the total votes for all candidates in the group is less than the election threshold;
   * for a multi winner contest, there are at least as many continuing candidates not in the group as there are seats remaining to be filled.
 * “Continuing candidate” means any candidate that has not been defeated or elected.
-* “Election threshold” means the number of votes sufficient for a candidate to be elected in a multi winner contest. The election threshold is calculated by dividing the total number of votes counting for continuing candidates in the first round by the sum of one plus the number of offices to be filled, rounding up to four decimal places.
+* “Election threshold” means the number of votes a candidate must exceed to be elected in a multi winner contest. The election threshold is calculated by dividing the total number of votes counting for continuing candidates in the first round by the sum of one plus the number of offices to be filled, rounding up to four decimal places.
 * “Exhausted ballot” means a ballot that is not counted for any continuing candidate for one or more of the following reasons:
   * It does not rank any continuing candidates;
   * its highest continuing ranking contains an overvote; or
